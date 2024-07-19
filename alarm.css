@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("/fgjr7.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#alarm_clock{
+    width: 50%;
+    height: 82vh;
+    background: #79529d;
+   color: white;
+   margin: 66px 380px;
+   border: 2px solid white;
+   border-radius: 20%;
+   font-family: 'Cabin', sans-serif;
+}
+#btn{
+    padding: 0 45px;
+    border-radius: 10px;
+    border: 2px solid white;
+    background:#68587f;
+    color: white;
+   
+}
+#alarm-clock input{
+    border: 10px;
+    
+}
+.inputs{
+    background: #68587f;
+    border:2px solid white ;
+    border-radius: 5px;
+    color: white;
+
+}
+#zone{
+    margin: 0 10px;
+}
+#navbar1{
+    background: #68587f;
+    font-family: 'Cabin', sans-serif;
+}
+#navtitle{
+    color: white;
+}
